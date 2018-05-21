@@ -7,7 +7,9 @@ body {
     font-family: sans-serif;
     color: #333;
 }
-
+#week {
+  margin:1rem;
+}
 #calendar {
     display: inline-block;
     margin: 1rem;
